@@ -28,6 +28,8 @@ One can use Google credentials to login to HTML Bin
 
 A local SQL server and Web API maintains the user-specific documents
 &nbsp;&nbsp;&nbsp;
+
+
 **Preview**
 
 ![preview_page](/resource/preview_page.jpg)
