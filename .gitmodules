@@ -1,0 +1,3 @@
+[submodule "signin"]
+	path = signin
+	url = https://github.com/jorido/HTML-Bin_front
