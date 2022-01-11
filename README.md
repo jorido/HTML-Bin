@@ -11,7 +11,7 @@ Middleground to Markdown-Bin (credits to Ilya Veksler for inspiration)
 
 ![guest_page](/resource/guest_page.jpg)
 
-Default redirects to guest![guest_page](https://user-images.githubusercontent.com/84487643/148899104-7dfe6a66-2aea-43b2-b9e2-0c40a226402f.jpg)
+Default redirects to guest
 
 
 &nbsp;&nbsp;&nbsp;
