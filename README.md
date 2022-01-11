@@ -6,7 +6,7 @@ Middleground to Markdown-Bin (credits to Ilya Veksler for inspiration)
 
 
 ## Inside
-&nbsp;
+
 **Guest**
 
 ![guest_page](/resource/guest_page.jpg)
