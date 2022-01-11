@@ -14,20 +14,20 @@ Middleground to Markdown-Bin (credits to Ilya Veksler for inspiration)
 Default redirects to guest
 
 
-&nbsp;&nbsp;&nbsp;
+
 **Login**
 
 ![login_page](/resource/login_page.jpg)
 
 One can use Google credentials to login to HTML Bin
 
-&nbsp;&nbsp;&nbsp;
+
 **Dashboard**
 
 ![dashboard_page](/resource/dashboard_page.jpg)
 
 A local SQL server and Web API maintains the user-specific documents
-&nbsp;&nbsp;&nbsp;
+
 
 
 **Preview**
