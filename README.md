@@ -4,6 +4,8 @@ Inspired by Pastebin, one can dump their HTML files and preview at the same time
 
 Middleground to Markdown-Bin (credits to Ilya Veksler for inspiration)
 
+**Currently supports localhost only, working on deploying**
+
 
 ## Inside
 
